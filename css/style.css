@@ -1,0 +1,41 @@
+.header-row {
+  margin: auto;
+  border-bottom: 1px solid grey;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.titular {
+  margin: 0;
+  text-align: right;
+  padding: 0;
+}
+
+.name, .desc {
+  margin: 0;
+  font-style: oblique;
+  font-family: fantasy;
+}
+
+.col-logo {
+  padding-left: 0;
+}
+
+.middle-div {
+  margin-top: 15px;
+}
+
+.works {
+  text-align: center;
+}
+
+.featured-work {
+  font-style: oblique;
+  font-family: fantasy;
+}
+
+.logo {
+  width: 160px;
+  height: auto;
+  padding: 2px;
+}
